@@ -1,1 +1,23 @@
+body {
+    background-image: url(https://raw.githubusercontent.com/oguzhandemirci1993/Istanbul-Grocery-Store/main/Store.jpg);
+    font-family: Georgia, Calibri;
+}
+
+.list{
+    background-color: rgb(102, 231, 160);
+    width: 50%;
+    margin: auto;
+    padding: auto;
+    max-width: 500px;
+}
+
+h1 {
+    font-family: Georgia, Calibri;
+    text-align: center;
+}
+
+.marketing {
+    font-family: Georgia, Calibri;
+    text-align: center;
+}
 
