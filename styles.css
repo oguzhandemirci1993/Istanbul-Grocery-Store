@@ -34,9 +34,33 @@ img{
     margin:auto;
 }
 
-/*FOOTER SECTION STYLING STARTS FROM HERE*/
-
-a:hover {
-
+.vegetables, .fruits {
+    display: inline-block;
+    width: 75%;
+    text-align: left;
 }
 
+.prices {
+    display: inline-block;
+    width: 25%;
+    text-align: right;
+}
+
+/*FOOTER SECTION STYLING STARTS FROM HERE*/
+
+a {
+    color:darkgreen;
+}
+
+a:visited {
+    color:lightseagreen;
+}
+
+a:hover {
+    colorlightseagreen;
+    ;
+}
+
+a:active {
+    color:white;
+}
