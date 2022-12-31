@@ -1,10 +1,11 @@
 body {
-    background-image: url(https://raw.githubusercontent.com/oguzhandemirci1993/Istanbul-Grocery-Store/main/Jalapenos.jpg);
+    background-image: url(https://raw.githubusercontent.com/oguzhandemirci1993/Istanbul-Grocery-Store/main/Peppers.jpg);
     font-family: Georgia, Calibri;
+    padding: 20px;
 }
 
 .list{
-    background-color: springgreen;
+    background-color: bisque;
     width: 80%;
     margin-left: auto;
     margin-right: auto;
@@ -15,6 +16,16 @@ body {
 h1, h2 {
     font-family: Georgia, Calibri;
     text-align: center;
+    }
+
+h1 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+h2,p {
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
 
 .marketing {
@@ -42,11 +53,28 @@ img{
 
 .prices {
     display: inline-block;
-    width: 25%;
+    width: 25%; 
     text-align: right;
 }
 
-/*FOOTER SECTION STYLING STARTS FROM HERE*/
+.paragraphs p {
+    display: inline-block;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+/*FOOTER SECTION STYLING STARTS FROM HERE BELOW*/
+
+.p1 {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.footer p,h3{
+    margin-top:5px;
+    margin-bottom: 5px;
+}
 
 a {
     color:darkgreen;
