@@ -66,6 +66,7 @@ img{
 /*FOOTER SECTION STYLING STARTS FROM HERE BELOW*/
 
 .footer p,h3{
+    margin-top: 5px;
     margin-bottom: 5px;
     font-size: 12px;
     text-align: center;
@@ -73,6 +74,12 @@ img{
 
 a {
     color:darkgreen;
+    display: inline-block;
+    margin-right: 25px;
+}
+
+.no-margin {
+    margin-right:0px;
 }
 
 a:visited {
