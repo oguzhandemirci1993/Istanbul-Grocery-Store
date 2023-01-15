@@ -65,15 +65,10 @@ img{
 
 /*FOOTER SECTION STYLING STARTS FROM HERE BELOW*/
 
-.p1 {
-    text-align: center;
-    margin-top: 10px;
-    margin-bottom: 10px;
-}
-
 .footer p,h3{
-    margin-top:5px;
     margin-bottom: 5px;
+    font-size: 12px;
+    text-align: center;
 }
 
 a {
