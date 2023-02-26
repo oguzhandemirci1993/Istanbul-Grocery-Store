@@ -83,6 +83,7 @@ a {
 
 a:visited {
     color:lightseagreen;
+    /*FreeCodeCamp link is not working with this code for some reason.*/
 }
 
 a:hover {
